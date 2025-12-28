@@ -110,7 +110,7 @@ Both paths feed into the **same AI engine**, so everything you see (chat, hypoth
 ## 3. High‑Level Architecture
 
 <p align="center">
-	<img src="./architecture.png" alt="Portabull Architecture Diagram" width="800" />
+	<img src="./ARCHITECTURE.png" alt="Portabull Architecture Diagram" width="800" />
 </p>
 
 Suggested structure for the diagram:
