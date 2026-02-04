@@ -201,13 +201,5 @@ Frontend will be available at: `http://localhost:3000`
 
 The Vite dev server is already configured to proxy API calls (`/api`, `/auth`, `/ws`) to the FastAPI backend.
 
----
-
-## 7. Why This Fits the Hackathon Theme
-
-- Uses **real broker portfolios (Zerodha)** and **safe paper trading** in one place.
-- Shows a clear use of **multi‑agent LLMs + RAG + streaming data**.
-- Focuses on **explainability**: hypotheses, debates, alerts, not just a chatbot.
-- Built with **hackathon‑friendly stack** (FastAPI + React + Groq), easy to demo.
 
 In short: **Portabull turns a static brokerage account into a live, intelligent, bullish co‑pilot that you can carry with you.**
